@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.338682
+  lightness: 1
+  rhythmicContrast: 0.492398
+  saturation: 0
+cta: {}
+layout_spectrum: 1
+name: cooltools
+opengraph: {}
+purpose: {}
+typography_spectrum: 0
